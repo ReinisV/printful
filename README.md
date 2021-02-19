@@ -1,4 +1,14 @@
-# printful
+### Archivation note [START]
+I wrote this app as part of the interview process when I was interviewing for Printful.
+
+At the time, Vue support for TS was shoddy, so to get better support, my default mode of writing Vue was with `vue-class-component`.
+
+These days the support TS support in default way of declaring Vue components is way better, which is why my default way now is... The composition API, because UI development in general these days is moving towards composability and the Composition API is the best way to achieve that.
+
+I'm archiving this repo now as I won't be doing any work on it ever.
+### Archivation note [END]
+
+## printful
 
 This is a quick prototype of the test application.
 
